@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="HttpServer">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\HttpServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ModFramework">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\ModFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\桌面\奇威服务器开服包\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OTAPI">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\OTAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="OTAPI.Runtime">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\OTAPI.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="TerrariaServer">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\TerrariaServer.dll</HintPath>
+    </Reference>
+    <Reference Include="TShockAPI">
+      <HintPath>..\..\..\..\桌面\TShock1444-bate\bin\TShockAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
