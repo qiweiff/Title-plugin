@@ -1,0 +1,29 @@
+[10/31/22 15:15:33] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[10/31/22 15:15:33] [Server API] Verbose: 	Command line: D:\桌面\TS1.4.4.5-v4-开服模板\TShock.Server.exe D:\编程\Tshockplunge\称号插件\称号插件\bin\Debug\net6.0\TerrariaServer.dll
+[10/31/22 15:15:33] [Server API] Verbose: 	OS: Microsoft Windows NT 10.0.22000.0 (64bit: True)
+[10/31/22 15:15:33] [Server API] Verbose: 	Mono: False
+[10/31/22 15:15:33] [Server API] Info: Plugin 1441PE跨版本进PC1445 v1.0.0.1 (by GK 阁下) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin InvSee汉化版 v1.1.0.0 (by Enerdy制作,nnt汉化) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin TShock v5.0.0.0 (by The TShock Team) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin AutoRegister v1.3.2.0 (by brian91292 & hufang360 & 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin BetterWhitelist v2.1 (by cjx) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin ExplosivesProtection v1.0.0.0 (by 棱镜) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin Inperms v1.0.0.0 (by 大豆子) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin Junknow_Extend v2.2.0.0 (by 呆呆小沫) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin PersonalPermission v1.1.0.0 (by Megghy) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin Robot adapter plug-in v1.0.0.0 (by by 枯叶) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin TileCommands v1.0.1.2 (by 豆沙) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin V1.0-定时解锁-1436 v1.0.0.0 (by 大豆子) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin V1.1 复活临时无敌 1423 v1.0.0.0 (by 大豆子) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin V1.1 死亡随机掉落 1436 v1.0.0.0 (by 大豆子) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 使液体移动 v1.0.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 召唤弹幕 v1.0.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 地图传送 v1.0.0.0 (by 九鼎) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 快速建造NPC小屋 v1.0.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 称号插件 v1.1.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 自动给物品 v1.0.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 队伍出生点与物品 v1.0.0.0 (by 奇威复反) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 进度礼包 v1.0.0.6 (by 少司命) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin Creative Mode汉化版 v1.2.0.0 (by InanZen/Bippity制作,nnt汉化) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 自定义怪物血量 v1.0.0.8 (by GK 阁下) initiated.
+[10/31/22 15:15:33] [Server API] Info: Plugin 简短指令改良版 v1.0.1.6 (by GK 超级改良) initiated.
